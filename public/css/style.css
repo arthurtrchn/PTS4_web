@@ -1,0 +1,18 @@
+header
+{
+    border-bottom: 1px solid black;
+}
+
+header img
+{
+    padding: 1vw;
+    width: 5vw;
+    height: auto;
+}
+
+header .nav-link
+{
+    color: black;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
